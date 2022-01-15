@@ -1,5 +1,5 @@
-This is again a commit!
+This is it a commit!
 
 And here we go again commit #2!
 
-third line test
+third dooo test
