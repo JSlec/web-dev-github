@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 This is now a commit!
+=======
+This is it a commit!
+>>>>>>> feature
 
-And here we go with commit #2!
+And here we go again commit #2!
 
+<<<<<<< HEAD
 third ll test
+=======
+third dooo test
+>>>>>>> feature
